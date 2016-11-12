@@ -5,7 +5,7 @@ Solution Integrator Experienced - Certified by Ericsson
 ```
 # Essential Erlang/OTP
 
-![ebook cover](images/essential-erlang-otp)
+![ebook cover](images/essential-erlang-otp.png)
 
 **About This Tutorial**
 
